@@ -2,4 +2,4 @@
 
 This is a script library for Unity that is commonly used for interactive app.
 
-Video Manager - To manage videoplayer and detect when the video end. 
+Video Manager - To manage videoplayer auto-clean Texture Renderer and detect when the video end. 
